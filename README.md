@@ -1,4 +1,4 @@
-\# Image Lambda Processor
+# Image Lambda Processor
 
 
 
